@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ItsaNiche</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ItsaNiche</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why do we do what we do</title>
+      <link>http://localhost:1313/posts/firstblog/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/firstblog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;h3 id=&#34;software-engineer-platform&#34;&gt;Software Engineer (Platform)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Zeta – Bangalore, IN&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Jan 2024 – Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and deployed a forward proxy Kubernetes controller for active-active and active-passive disaster recovery (DR), enabling seamless traffic failovers and reducing downtime.&lt;/li&gt;
+&lt;li&gt;Developed an egress traffic controller to enhance outbound traffic security and monitoring, enabling domain-level whitelisting for over 1,500 microservices.&lt;/li&gt;
+&lt;li&gt;Achieved a 98% reduction in production vulnerabilities by leading an initiative to minimize the attack surface and implementing robust automated security checks within CI/CD pipelines.&lt;/li&gt;
+&lt;li&gt;Migrated Kong API Gateway from Ubuntu to a distroless container image, significantly reducing the attack surface area, and contributed the implementation to the open-source Kong community.&lt;/li&gt;
+&lt;li&gt;Built advanced Kong Gateway plugins, adding functionality for audit logging, entity extraction, response transformation, and header validation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software-engineer-fullstack&#34;&gt;Software Engineer (Fullstack)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Groww – Bangalore, IN&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Jan 2022 – Jan 2024&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
